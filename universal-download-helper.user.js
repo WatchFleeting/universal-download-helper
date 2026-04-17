@@ -2,7 +2,7 @@
 // @name         全能下载助手 | 支持30+网盘（含蓝奏云特殊解析）
 // @namespace    https://github.com/WatchFleeting/universal-download-helper
 // @version      1.0.0
-// @author       Assistant
+// @author       鸿渚
 // @description  仅在网盘页面激活，自动捕获主流网盘直链，蓝奏云自动解析真实地址。支持API直接下载、Aria2命令、cURL命令、BC链接、RPC推送，配合IDM、Xdown、Aria2、cURL、比特彗星高效批量下载。
 // @license      MIT
 // @supportURL   https://github.com/WatchFleeting/universal-download-helper/issues
