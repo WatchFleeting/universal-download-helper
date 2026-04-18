@@ -1,7 +1,7 @@
 # 全能下载助手 | Universal Download Helper
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.1.0-blue)]()
+[![Version](https://img.shields.io/badge/version-1.2.0-blue)]()
 
 > 一个功能强大的 Tampermonkey 用户脚本，自动捕获 30+ 网盘、Openlist 开放目录、AList、腾飞 WebOS 等页面的文件直链。支持蓝奏云自动解析、批量导入、RPC 推送、多种导出格式，极大提升下载效率。
 
